@@ -1,0 +1,10 @@
+# Prislista för Prague Parking
+# Pris i CZK per påbörjad timme.
+# Rader som börjar med # är kommentarer.
+# Ändra ett pris, spara filen och välj 7 i menyn.
+
+CAR=20
+MC=10
+
+# Antal minuter som är gratis
+GRATIS=10

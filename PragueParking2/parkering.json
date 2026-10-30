@@ -1,0 +1,32 @@
+[
+  {
+    "Typ": "CAR",
+    "Regnr": "ABC123",
+    "PlatsNummer": 1,
+    "Ankomst": "2026-10-30T08:00:00"
+  },
+  {
+    "Typ": "MC",
+    "Regnr": "MCA111",
+    "PlatsNummer": 2,
+    "Ankomst": "2026-10-30T09:15:00"
+  },
+  {
+    "Typ": "MC",
+    "Regnr": "MCB222",
+    "PlatsNummer": 2,
+    "Ankomst": "2026-10-30T09:40:00"
+  },
+  {
+    "Typ": "MC",
+    "Regnr": "MCC333",
+    "PlatsNummer": 3,
+    "Ankomst": "2026-10-30T07:30:00"
+  },
+  {
+    "Typ": "CAR",
+    "Regnr": "XYZ789",
+    "PlatsNummer": 5,
+    "Ankomst": "2026-10-29T17:30:00"
+  }
+]

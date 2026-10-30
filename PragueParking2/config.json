@@ -1,0 +1,8 @@
+{
+  "AntalPlatser": 100,
+  "PlatsStorlek": 4,
+  "Fordonstyper": {
+    "CAR": 4,
+    "MC": 2
+  }
+}
